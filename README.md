@@ -1,2 +1,2 @@
 # DAA-Mini-Project
-Pathfinding Algorithm Visualizer
+# Pathfinding Algorithm Visualizer
